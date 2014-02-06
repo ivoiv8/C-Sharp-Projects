@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\08-PrintNumbersFrom1ToN\bin\Debug\08-PrintNumbersFrom1ToN.exe.config
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\08-PrintNumbersFrom1ToN\bin\Debug\08-PrintNumbersFrom1ToN.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\08-PrintNumbersFrom1ToN\bin\Debug\08-PrintNumbersFrom1ToN.pdb
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\08-PrintNumbersFrom1ToN\obj\Debug\08-PrintNumbersFrom1ToN.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\08-PrintNumbersFrom1ToN\obj\Debug\08-PrintNumbersFrom1ToN.pdb

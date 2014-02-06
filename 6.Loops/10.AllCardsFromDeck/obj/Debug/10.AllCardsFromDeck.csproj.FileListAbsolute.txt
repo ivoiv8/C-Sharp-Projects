@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\10.AllCardsFromDeck\bin\Debug\10.AllCardsFromDeck.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\10.AllCardsFromDeck\bin\Debug\10.AllCardsFromDeck.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\10.AllCardsFromDeck\bin\Debug\10.AllCardsFromDeck.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\10.AllCardsFromDeck\obj\Debug\10.AllCardsFromDeck.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\10.AllCardsFromDeck\obj\Debug\10.AllCardsFromDeck.pdb

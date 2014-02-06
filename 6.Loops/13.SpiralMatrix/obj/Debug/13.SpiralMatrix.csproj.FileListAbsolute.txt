@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\13.SpiralMatrix\bin\Debug\13.SpiralMatrix.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\13.SpiralMatrix\bin\Debug\13.SpiralMatrix.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\13.SpiralMatrix\bin\Debug\13.SpiralMatrix.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\13.SpiralMatrix\obj\Debug\13.SpiralMatrix.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\13.SpiralMatrix\obj\Debug\13.SpiralMatrix.pdb

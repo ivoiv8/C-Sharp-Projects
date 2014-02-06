@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\07-NSum\bin\Debug\07-NSum.exe.config
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\07-NSum\bin\Debug\07-NSum.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\07-NSum\bin\Debug\07-NSum.pdb
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\07-NSum\obj\Debug\07-NSum.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\07-NSum\obj\Debug\07-NSum.pdb

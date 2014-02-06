@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\10-BitPosition\bin\Debug\10-BitPosition.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\10-BitPosition\bin\Debug\10-BitPosition.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\10-BitPosition\bin\Debug\10-BitPosition.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\10-BitPosition\obj\Debug\10-BitPosition.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\10-BitPosition\obj\Debug\10-BitPosition.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\10-BitPosition\obj\Debug\10-BitPosition.pdb

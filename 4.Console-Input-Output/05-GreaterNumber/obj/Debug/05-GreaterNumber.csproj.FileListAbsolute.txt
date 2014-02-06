@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\05-GreaterNumber\bin\Debug\05-GreaterNumber.exe.config
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\05-GreaterNumber\bin\Debug\05-GreaterNumber.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\05-GreaterNumber\bin\Debug\05-GreaterNumber.pdb
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\05-GreaterNumber\obj\Debug\05-GreaterNumber.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\05-GreaterNumber\obj\Debug\05-GreaterNumber.pdb

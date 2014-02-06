@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\03.MinMax\bin\Debug\03.MinMax.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\03.MinMax\bin\Debug\03.MinMax.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\03.MinMax\bin\Debug\03.MinMax.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\03.MinMax\obj\Debug\03.MinMax.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\03.MinMax\obj\Debug\03.MinMax.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\03.MinMax\obj\Debug\03.MinMax.csprojResolveAssemblyReference.cache

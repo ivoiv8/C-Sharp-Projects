@@ -1,0 +1,5 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\05.Conditional-Statements\11.NumberToText\bin\Debug\11.NumberToText.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\05.Conditional-Statements\11.NumberToText\bin\Debug\11.NumberToText.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\05.Conditional-Statements\11.NumberToText\bin\Debug\11.NumberToText.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\05.Conditional-Statements\11.NumberToText\obj\Debug\11.NumberToText.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\05.Conditional-Statements\11.NumberToText\obj\Debug\11.NumberToText.pdb

@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\07.FibonacciSum\obj\Debug\07.FibonacciSum.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\07.FibonacciSum\obj\Debug\07.FibonacciSum.pdb

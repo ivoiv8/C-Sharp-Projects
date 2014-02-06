@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\10-CalculateSumWithAccuracy\bin\Debug\10-CalculateSumWithAccuracy.exe.config
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\10-CalculateSumWithAccuracy\bin\Debug\10-CalculateSumWithAccuracy.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\10-CalculateSumWithAccuracy\bin\Debug\10-CalculateSumWithAccuracy.pdb
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\10-CalculateSumWithAccuracy\obj\Debug\10-CalculateSumWithAccuracy.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\10-CalculateSumWithAccuracy\obj\Debug\10-CalculateSumWithAccuracy.pdb

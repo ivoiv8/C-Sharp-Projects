@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem3-SandGlass\bin\Debug\Problem3-SandGlass.exe.config
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem3-SandGlass\bin\Debug\Problem3-SandGlass.exe
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem3-SandGlass\bin\Debug\Problem3-SandGlass.pdb
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem3-SandGlass\obj\Debug\Problem3-SandGlass.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem3-SandGlass\obj\Debug\Problem3-SandGlass.exe
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem3-SandGlass\obj\Debug\Problem3-SandGlass.pdb

@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\2-DivideByFiveAndSeven\bin\Debug\2-DivideByFiveAndSeven.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\2-DivideByFiveAndSeven\bin\Debug\2-DivideByFiveAndSeven.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\2-DivideByFiveAndSeven\bin\Debug\2-DivideByFiveAndSeven.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\2-DivideByFiveAndSeven\obj\Debug\2-DivideByFiveAndSeven.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\2-DivideByFiveAndSeven\obj\Debug\2-DivideByFiveAndSeven.pdb

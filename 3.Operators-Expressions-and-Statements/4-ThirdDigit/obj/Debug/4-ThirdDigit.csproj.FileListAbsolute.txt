@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\4-ThirdDigit\bin\Debug\4-ThirdDigit.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\4-ThirdDigit\bin\Debug\4-ThirdDigit.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\4-ThirdDigit\bin\Debug\4-ThirdDigit.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\4-ThirdDigit\obj\Debug\4-ThirdDigit.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\4-ThirdDigit\obj\Debug\4-ThirdDigit.pdb

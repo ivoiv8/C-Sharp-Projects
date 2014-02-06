@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\03-CompanyDetails\bin\Debug\03-CompanyDetails.exe.config
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\03-CompanyDetails\bin\Debug\03-CompanyDetails.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\03-CompanyDetails\bin\Debug\03-CompanyDetails.pdb
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\03-CompanyDetails\obj\Debug\03-CompanyDetails.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\03-CompanyDetails\obj\Debug\03-CompanyDetails.pdb

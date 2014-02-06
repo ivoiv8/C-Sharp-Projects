@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\12.TrailingZeros\bin\Debug\12.TrailingZeros.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\12.TrailingZeros\bin\Debug\12.TrailingZeros.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\12.TrailingZeros\bin\Debug\12.TrailingZeros.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\12.TrailingZeros\obj\Debug\12.TrailingZeros.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\12.TrailingZeros\obj\Debug\12.TrailingZeros.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\12.TrailingZeros\obj\Debug\12.TrailingZeros.pdb

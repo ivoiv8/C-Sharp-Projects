@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\13-ExchangeBits\bin\Debug\13-ExchangeBits.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\13-ExchangeBits\bin\Debug\13-ExchangeBits.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\13-ExchangeBits\bin\Debug\13-ExchangeBits.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\13-ExchangeBits\obj\Debug\13-ExchangeBits.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\13-ExchangeBits\obj\Debug\13-ExchangeBits.pdb

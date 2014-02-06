@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\11-BitValue\bin\Debug\11-BitValue.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\11-BitValue\bin\Debug\11-BitValue.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\11-BitValue\bin\Debug\11-BitValue.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\11-BitValue\obj\Debug\11-BitValue.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\11-BitValue\obj\Debug\11-BitValue.pdb

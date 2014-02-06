@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem2-AstrologicalDigits\bin\Debug\Problem2-AstrologicalDigits.exe.config
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem2-AstrologicalDigits\bin\Debug\Problem2-AstrologicalDigits.exe
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem2-AstrologicalDigits\bin\Debug\Problem2-AstrologicalDigits.pdb
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem2-AstrologicalDigits\obj\Debug\Problem2-AstrologicalDigits.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem2-AstrologicalDigits\obj\Debug\Problem2-AstrologicalDigits.exe
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\Problem2-AstrologicalDigits\obj\Debug\Problem2-AstrologicalDigits.pdb

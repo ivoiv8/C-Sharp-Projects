@@ -1,0 +1,1 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\05.Conditional-Statements\05.DigitName\bin\Debug\05.DigitName.exe.config

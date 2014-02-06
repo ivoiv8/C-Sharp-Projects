@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\14-ExchangeNumberOfBits\bin\Debug\14-ExchangeNumberOfBits.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\14-ExchangeNumberOfBits\bin\Debug\14-ExchangeNumberOfBits.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\14-ExchangeNumberOfBits\bin\Debug\14-ExchangeNumberOfBits.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\14-ExchangeNumberOfBits\obj\Debug\14-ExchangeNumberOfBits.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\14-ExchangeNumberOfBits\obj\Debug\14-ExchangeNumberOfBits.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\14-ExchangeNumberOfBits\obj\Debug\14-ExchangeNumberOfBits.pdb

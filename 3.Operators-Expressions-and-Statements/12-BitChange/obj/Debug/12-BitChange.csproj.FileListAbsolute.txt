@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\12-BitChange\bin\Debug\12-BitChange.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\12-BitChange\bin\Debug\12-BitChange.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\12-BitChange\bin\Debug\12-BitChange.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\12-BitChange\obj\Debug\12-BitChange.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\12-BitChange\obj\Debug\12-BitChange.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\3.Operators-Expressions-and-Statements\12-BitChange\obj\Debug\12-BitChange.csprojResolveAssemblyReference.cache

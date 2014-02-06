@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\8-TrapezoidArea\bin\Debug\8-TrapezoidArea.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\8-TrapezoidArea\bin\Debug\8-TrapezoidArea.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\8-TrapezoidArea\bin\Debug\8-TrapezoidArea.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\8-TrapezoidArea\obj\Debug\8-TrapezoidArea.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\8-TrapezoidArea\obj\Debug\8-TrapezoidArea.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\8-TrapezoidArea\obj\Debug\8-TrapezoidArea.pdb

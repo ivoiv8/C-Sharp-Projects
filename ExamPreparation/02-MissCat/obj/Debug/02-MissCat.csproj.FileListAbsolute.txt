@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\02-MissCat\bin\Debug\02-MissCat.exe.config
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\02-MissCat\bin\Debug\02-MissCat.exe
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\02-MissCat\bin\Debug\02-MissCat.pdb
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\02-MissCat\obj\Debug\02-MissCat.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\02-MissCat\obj\Debug\02-MissCat.exe
+\\psf\home\documents\visual studio 2013\Projects\ExamPreparation\02-MissCat\obj\Debug\02-MissCat.pdb

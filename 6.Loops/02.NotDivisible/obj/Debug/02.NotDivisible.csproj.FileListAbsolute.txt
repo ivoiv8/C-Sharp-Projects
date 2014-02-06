@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\02.NotDivisible\bin\Debug\02.NotDivisible.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\02.NotDivisible\bin\Debug\02.NotDivisible.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\02.NotDivisible\bin\Debug\02.NotDivisible.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\02.NotDivisible\obj\Debug\02.NotDivisible.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\02.NotDivisible\obj\Debug\02.NotDivisible.pdb

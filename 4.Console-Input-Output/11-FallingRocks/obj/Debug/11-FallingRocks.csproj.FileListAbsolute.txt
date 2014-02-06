@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\11-FallingRocks\bin\Debug\11-FallingRocks.exe.config
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\11-FallingRocks\bin\Debug\11-FallingRocks.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\11-FallingRocks\bin\Debug\11-FallingRocks.pdb
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\11-FallingRocks\obj\Debug\11-FallingRocks.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\11-FallingRocks\obj\Debug\11-FallingRocks.pdb

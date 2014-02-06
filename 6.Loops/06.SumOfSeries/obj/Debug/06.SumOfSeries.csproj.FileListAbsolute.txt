@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\06.SumOfSeries\bin\Debug\06.SumOfSeries.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\06.SumOfSeries\bin\Debug\06.SumOfSeries.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\06.SumOfSeries\bin\Debug\06.SumOfSeries.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\06.SumOfSeries\obj\Debug\06.SumOfSeries.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\06.SumOfSeries\obj\Debug\06.SumOfSeries.pdb

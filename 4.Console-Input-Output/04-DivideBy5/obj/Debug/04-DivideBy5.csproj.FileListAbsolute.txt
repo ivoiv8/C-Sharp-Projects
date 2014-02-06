@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\04-DivideBy5\bin\Debug\04-DivideBy5.exe.config
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\04-DivideBy5\bin\Debug\04-DivideBy5.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\04-DivideBy5\bin\Debug\04-DivideBy5.pdb
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\04-DivideBy5\obj\Debug\04-DivideBy5.exe
+\\psf\home\documents\visual studio 2013\Projects\4.Console-Input-Output\04-DivideBy5\obj\Debug\04-DivideBy5.pdb

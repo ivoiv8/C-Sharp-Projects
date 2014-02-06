@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\3-RectangleArea\bin\Debug\3-RectangleArea.exe.config
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\3-RectangleArea\bin\Debug\3-RectangleArea.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\3-RectangleArea\bin\Debug\3-RectangleArea.pdb
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\3-RectangleArea\obj\Debug\3-RectangleArea.exe
+\\psf\home\documents\visual studio 2013\Projects\3.Operators-Expressions-and-Statements\3-RectangleArea\obj\Debug\3-RectangleArea.pdb

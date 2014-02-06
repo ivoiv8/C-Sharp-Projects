@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\08.GCD\bin\Debug\08.GCD.exe.config
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\08.GCD\bin\Debug\08.GCD.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\08.GCD\bin\Debug\08.GCD.pdb
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\08.GCD\obj\Debug\08.GCD.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\08.GCD\obj\Debug\08.GCD.exe
+\\psf\home\documents\visual studio 2013\Projects\6.Loops\08.GCD\obj\Debug\08.GCD.pdb
