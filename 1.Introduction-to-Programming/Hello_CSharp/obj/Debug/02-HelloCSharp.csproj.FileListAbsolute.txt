@@ -1,0 +1,11 @@
+\\psf\home\documents\visual studio 2013\Projects\Introduction-to-Programming\Hello_CSharp\bin\Debug\Hello_CSharp.exe.config
+\\psf\home\documents\visual studio 2013\Projects\Introduction-to-Programming\Hello_CSharp\bin\Debug\Hello_CSharp.exe
+\\psf\home\documents\visual studio 2013\Projects\Introduction-to-Programming\Hello_CSharp\bin\Debug\Hello_CSharp.pdb
+\\psf\home\documents\visual studio 2013\Projects\Introduction-to-Programming\Hello_CSharp\obj\Debug\Hello_CSharp.exe
+\\psf\home\documents\visual studio 2013\Projects\Introduction-to-Programming\Hello_CSharp\obj\Debug\Hello_CSharp.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Introduction-to-Programming\Hello_CSharp\bin\Debug\Hello_CSharp.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Introduction-to-Programming\Hello_CSharp\obj\Debug\Hello_CSharp.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Introduction-to-Programming\Hello_CSharp\obj\Debug\Hello_CSharp.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Introduction-to-Programming\HW-Introduction-to-Programming\Hello_CSharp\bin\Debug\Hello_CSharp.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Introduction-to-Programming\HW-Introduction-to-Programming\Hello_CSharp\obj\Debug\Hello_CSharp.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Introduction-to-Programming\HW-Introduction-to-Programming\Hello_CSharp\obj\Debug\Hello_CSharp.pdb

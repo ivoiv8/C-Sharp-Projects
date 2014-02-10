@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\CSharp-DotNetDifferences\obj\Debug\11-CSharpDotNetDifferences.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\CSharp-DotNetDifferences\bin\Debug\CSharp-DotNetDifferences.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\CSharp-DotNetDifferences\bin\Debug\CSharp-DotNetDifferences.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\CSharp-DotNetDifferences\bin\Debug\CSharp-DotNetDifferences.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\CSharp-DotNetDifferences\obj\Debug\CSharp-DotNetDifferences.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\CSharp-DotNetDifferences\obj\Debug\CSharp-DotNetDifferences.pdb

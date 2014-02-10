@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\ProintProgrammingInfo\bin\Debug\ProintProgrammingInfo.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\ProintProgrammingInfo\bin\Debug\ProintProgrammingInfo.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\ProintProgrammingInfo\bin\Debug\ProintProgrammingInfo.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\ProintProgrammingInfo\obj\Debug\ProintProgrammingInfo.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\ProintProgrammingInfo\obj\Debug\ProintProgrammingInfo.pdb

@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintNumbers\bin\Debug\PrintNumbers.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintNumbers\obj\Debug\04-PrintNumbers.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb

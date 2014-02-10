@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\SquareOfNumber12345\bin\Debug\SquareOfNumber12345.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\SquareOfNumber12345\bin\Debug\SquareOfNumber12345.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\SquareOfNumber12345\bin\Debug\SquareOfNumber12345.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\SquareOfNumber12345\obj\Debug\SquareOfNumber12345.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\SquareOfNumber12345\obj\Debug\SquareOfNumber12345.pdb

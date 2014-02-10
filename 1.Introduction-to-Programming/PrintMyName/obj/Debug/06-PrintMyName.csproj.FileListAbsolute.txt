@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintMyName\bin\Debug\PrintMyName.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintMyName\bin\Debug\PrintMyName.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintMyName\bin\Debug\PrintMyName.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintMyName\obj\Debug\PrintMyName.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\PrintMyName\obj\Debug\PrintMyName.pdb

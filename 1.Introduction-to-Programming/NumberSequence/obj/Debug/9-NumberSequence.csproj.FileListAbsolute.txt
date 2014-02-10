@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\NumberSequence\bin\Debug\NumberSequence.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\NumberSequence\bin\Debug\NumberSequence.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\NumberSequence\bin\Debug\NumberSequence.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\NumberSequence\obj\Debug\9-NumberSequence.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\NumberSequence\obj\Debug\NumberSequence.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Introduction-to-Programming\NumberSequence\obj\Debug\NumberSequence.pdb
