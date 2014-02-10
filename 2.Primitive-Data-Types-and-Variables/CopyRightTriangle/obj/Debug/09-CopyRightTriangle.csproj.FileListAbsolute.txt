@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CopyRightTriangle\bin\Debug\CopyRightTriangle.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CopyRightTriangle\bin\Debug\CopyRightTriangle.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CopyRightTriangle\bin\Debug\CopyRightTriangle.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CopyRightTriangle\obj\Debug\CopyRightTriangle.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CopyRightTriangle\obj\Debug\CopyRightTriangle.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CopyRightTriangle\obj\Debug\09-CopyRightTriangle.csprojResolveAssemblyReference.cache

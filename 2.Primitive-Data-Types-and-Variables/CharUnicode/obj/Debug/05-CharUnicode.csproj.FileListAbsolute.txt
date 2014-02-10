@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CharUnicode\bin\Debug\CharUnicode.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CharUnicode\bin\Debug\CharUnicode.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CharUnicode\bin\Debug\CharUnicode.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CharUnicode\obj\Debug\CharUnicode.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CharUnicode\obj\Debug\CharUnicode.pdb

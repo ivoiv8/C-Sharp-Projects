@@ -1,0 +1,1 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\CopyRightTriangle\bin\Debug\CopyRightTriangle.exe.config

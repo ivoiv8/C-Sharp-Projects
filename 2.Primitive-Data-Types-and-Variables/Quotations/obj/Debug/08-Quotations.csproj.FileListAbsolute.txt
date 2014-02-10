@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\Quotations\bin\Debug\Quotations.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\Quotations\bin\Debug\Quotations.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\Quotations\bin\Debug\Quotations.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\Quotations\obj\Debug\Quotations.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\Quotations\obj\Debug\Quotations.pdb

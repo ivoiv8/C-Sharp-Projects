@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\EmployeesRecord\bin\Debug\EmployeesRecord.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\EmployeesRecord\bin\Debug\EmployeesRecord.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\EmployeesRecord\bin\Debug\EmployeesRecord.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\EmployeesRecord\obj\Debug\EmployeesRecord.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\EmployeesRecord\obj\Debug\EmployeesRecord.pdb

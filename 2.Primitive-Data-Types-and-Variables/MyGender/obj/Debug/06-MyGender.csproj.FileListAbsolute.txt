@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\MyGender\bin\Debug\MyGender.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\MyGender\bin\Debug\MyGender.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\MyGender\bin\Debug\MyGender.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\MyGender\obj\Debug\MyGender.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\MyGender\obj\Debug\MyGender.pdb

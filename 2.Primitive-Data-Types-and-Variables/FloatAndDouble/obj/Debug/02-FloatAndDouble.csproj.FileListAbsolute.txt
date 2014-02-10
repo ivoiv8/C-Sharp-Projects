@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\FloatAndDouble\bin\Debug\FloatAndDouble.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\FloatAndDouble\bin\Debug\FloatAndDouble.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\FloatAndDouble\bin\Debug\FloatAndDouble.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\FloatAndDouble\obj\Debug\FloatAndDouble.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\FloatAndDouble\obj\Debug\FloatAndDouble.pdb

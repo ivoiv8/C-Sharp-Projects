@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\SafeCompare\bin\Debug\SafeCompare.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\SafeCompare\bin\Debug\SafeCompare.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\SafeCompare\bin\Debug\SafeCompare.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\SafeCompare\obj\Debug\SafeCompare.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\SafeCompare\obj\Debug\SafeCompare.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\SafeCompare\obj\Debug\03-SafeCompare.csprojResolveAssemblyReference.cache

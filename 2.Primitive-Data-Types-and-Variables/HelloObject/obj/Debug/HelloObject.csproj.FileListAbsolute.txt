@@ -1,0 +1,1 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\HelloObject\bin\Debug\HelloObject.exe.config

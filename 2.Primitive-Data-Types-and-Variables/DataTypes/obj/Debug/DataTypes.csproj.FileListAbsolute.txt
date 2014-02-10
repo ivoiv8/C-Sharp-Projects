@@ -1,0 +1,3 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\DataTypes\bin\Debug\DataTypes.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\DataTypes\obj\Debug\DataTypes.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\HW-Primitive-Data-Types-and-Variables\DataTypes\obj\Debug\DataTypes.pdb
